@@ -1,13 +1,23 @@
-Project Objectives
-The primary goal was to develop a dynamic dashboard capable of not only analyzing but also comprehensively evaluating Madhav Store's online sales. The task involved translating raw data into meaningful visuals, providing actionable insights for the business.
+**Objective of the Project:**
+The main objective was to create a dynamic dashboard that could not only analyze but also extensively evaluate the online sales of the Madhav Store. Translating raw data into meaningful visuals that offer actionable insights for the business has been an interesting task.
 
-Knowledge Gained
-Throughout this project, I explored various data analytics topics:
+**Actionable Insights:**
+Maharashtra led in sales, outpacing other states, with Indore and Pune emerging as the most profitable cities. 
 
-ETL Process: Mastering the Extract, Transform, and Load process was crucial for ensuring the accuracy and relevance of the data.
+Notably, the highest profit was recorded in November, while May saw the lowest profits. 
 
-Sales Domain Knowledge: Building a solid foundation in the sales domain was instrumental in deciphering the intricacies of Madhav Store's online transactions.
+Within the product categories, clothing stood out as the top-selling category, with the highest profit coming from the sub-category of printers.
 
-Power Dashboard Creation: Crafting a powerful dashboard using Power BI not only refined my technical skills but also expanded my understanding of its advanced features.
+Interestingly, a predominant reliance on Cash on Delivery was observed among customers. 
 
-Analytical Skills: The project sharpened my analytical thinking, empowering me to derive meaningful insights from complex datasets.
+
+**Project Learnings: **
+
+Created an interactive dashboard to track and analyze online sales data.
+
+Used complex parameters to drill down in worksheets and customization using filters and slicers.
+
+Created connections, joined new tables, and calculations to manipulate data and enable user-driven parameters for visualizations.
+
+Used different types of customized visualization (Bar chart, Pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc.  
+
